@@ -1,0 +1,8 @@
+{
+  "task": "hello-real-world",
+  "stack": {
+    "type": "docker"
+  },
+  "configSource": "env",
+  "template": "docker"
+}
